@@ -10,6 +10,9 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
+		<Item Name="docs" Type="Folder" URL="../../docs">
+			<Property Name="NI.DISK" Type="Bool">true</Property>
+		</Item>
 		<Item Name="src" Type="Folder" URL="..">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
@@ -17,6 +20,7 @@
 			<Item Name="instr.lib" Type="Folder">
 				<Item Name="BK Precision 891 Read Measurement.vi" Type="VI" URL="/&lt;instrlib&gt;/BK Precision 891/Examples/BK Precision 891 Read Measurement.vi"/>
 				<Item Name="BK Precision 891.lvlib" Type="Library" URL="/&lt;instrlib&gt;/BK Precision 891/BK Precision 891.lvlib"/>
+				<Item Name="BK Precision 911X Series.lvlib" Type="Library" URL="/&lt;instrlib&gt;/BK Precision 911X Series/BK Precision 911X Series.lvlib"/>
 			</Item>
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="BuildHelpPath.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/BuildHelpPath.vi"/>
