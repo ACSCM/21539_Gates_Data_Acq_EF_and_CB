@@ -18,7 +18,6 @@
 		</Item>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="instr.lib" Type="Folder">
-				<Item Name="BK Precision 891 Read Measurement.vi" Type="VI" URL="/&lt;instrlib&gt;/BK Precision 891/Examples/BK Precision 891 Read Measurement.vi"/>
 				<Item Name="BK Precision 891.lvlib" Type="Library" URL="/&lt;instrlib&gt;/BK Precision 891/BK Precision 891.lvlib"/>
 				<Item Name="BK Precision 911X Series.lvlib" Type="Library" URL="/&lt;instrlib&gt;/BK Precision 911X Series/BK Precision 911X Series.lvlib"/>
 			</Item>
