@@ -52,7 +52,8 @@ set_ps_volt_setpoint,<setpoint_in_vdc>
 set_ps_current_limit,<limit_in_amps>
 set_ps_enable_output,<true/false>
 set_pwm_duty_cycle,<0-100%>
-display_user_dialog,<message_to_user>
+dwell_seconds,<seconds_to_dwell>
+display_user_dialog,<message_to_user>,<timeout_in_seconds>
 connect_lcr,<0=UV, 1=UW, 2=VW>
 disconnect_lcr
 tare_lcr
