@@ -1,0 +1,11 @@
+comment,command,arg1,arg2,arg3
+Set Power Supply Voltage Setpoint,set_ps_volt_setpoint,10,,
+Set Power Supply Current Limit,set_ps_current_limit,5,,
+Set Power Supply Output Enabled,set_ps_enable_output,TRUE,,
+Set PWM Duty Cycle to EWP,set_pwm_duty_cycle,100,,
+Dwell 15 seconds,dwell_seconds,15,,
+Display a message to the user,display_user_dialog,This is a message,,
+Connect LCR relays to UV configuration (0=UV | 1=UW | 2=VW),connect_lcr,0,,
+Disconnect LCR relays from all phases,disconnect_lcr,,,
+Tares the present reading on the LCR meter,tare_lcr,,,
+Configures the LCR for R/L reading (0=Resistance | 1=Inductance),config_lcr_measurement,0,,
