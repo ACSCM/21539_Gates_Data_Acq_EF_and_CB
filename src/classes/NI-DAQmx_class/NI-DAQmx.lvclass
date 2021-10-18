@@ -153,7 +153,7 @@
 		<Property Name="NI.ClassItem.State" Type="Int">1342710288</Property>
 	</Item>
 	<Item Name="Connect LCR Relay.vi" Type="VI" URL="../Connect LCR Relay.vi">
-		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">'!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;?!!!!#A!K1(!!(A!!%B"/33V%16&amp;N?#ZM&gt;G.M98.T!!!-=G6G:8*F&lt;G.F)'FO!!!%!!!!(5!7!!-#669#66=#6F=!!!J3:7RB?3".&lt;W2F!!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!A1&amp;!!!Q!$!!1!"2.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!#J!=!!?!!!3%%Z*,52"57VY,GRW9WRB=X-!!!VS:7:F=G6O9W5A&lt;X6U!":!5!!$!!-!"!!&amp;#76S=G^S)'^V&gt;!#%!0!!&amp;!!!!!%!!A!"!!%!"A!"!!%!!1!"!!%!!1!"!!%!"Q!"!!%!!1!"!!A$!!%1!!#1!!!!!!!!!!A!!!!!!!!!!!!!!!I!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!)U!!!!!!!!!!!!!!!!!!!!!!!!!$15!!!!"!!E!!!!!</Property>
+		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">'!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;C!!!!#A!K1(!!(A!!%B"/33V%16&amp;N?#ZM&gt;G.M98.T!!!-=G6G:8*F&lt;G.F)'FO!!!%!!!!)5!7!!1#669#66=#6F=%4G^O:1!+5G6M98EA47^E:1!!$%!B"H.U982V=Q!!#U!$!!2D&lt;W2F!!!11$$`````"H.P&gt;8*D:1!!)%"1!!-!!Q!%!!54:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!K1(!!(A!!%B"/33V%16&amp;N?#ZM&gt;G.M98.T!!!.=G6G:8*F&lt;G.F)'^V&gt;!!71&amp;!!!Q!$!!1!"1FF=H*P=C"P&gt;81!B!$Q!"1!!!!"!!)!!1!"!!9!!1!"!!%!!1!"!!%!!1!"!!=!!1!"!!%!!1!)!Q!"%!!!E!!!!!!!!!!)!!!!!!!!!!!!!!!+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!#.!!!!!!!!!!!!!!!!!!!!!!!!!!U&amp;!!!!!1!*!!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 		<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
 		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>
